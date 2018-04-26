@@ -24,5 +24,3 @@ def between_strict(checked,number1,number2)
     end
     return true
 end
-
-puts between_strict(1,1,3)
